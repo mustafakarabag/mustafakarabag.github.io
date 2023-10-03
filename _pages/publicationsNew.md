@@ -1,14 +1,17 @@
 ---
 layout: archive
 title: ""
-permalink: /projects-publications/
+permalink: /projects-publicationsnew/
 ---
 
 # Planning in Adversarial Domains ([Relevant publications](#adversarialpublications))
- 
-# Planning in Information-Scarce Domains ([Relevant publications](#informationscarcepublications))
+[deception](#deceptionpublications) [inferability](#inferabilitypublications) [privacy](#inferabilitypublications) [randomness](#randomnesspublications)
 
-# Conveying Information via Behavior ([Relevant publications](#conveyinformationpublications))
+# Planning in Information-Scarce Domains
+[communication](#communicationpublications) [optimization](#optimizationpublications) [offlinedata](#offlinedatapublications)
+
+# Conveying Information via Behavior
+[intent][#intentpublications]
 
 <a name="adversarialpublications"></a>
 
@@ -165,7 +168,6 @@ style="float: right; margin-left: 10px; margin-right: 10px;">
 
 
 ---
-<a name="informationscarcepublications"></a>
 
 ### Planning Not to Talk: Multiagent Systems that are Robust to Communication Loss
 <a name="communicationpublications"></a>
@@ -184,6 +186,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 
 ---
 
+
 ### Smooth Convex Optimization Using Sub-Zeroth-Order Oracles
 <a name="optimizationpublications"></a>
 
@@ -201,6 +204,8 @@ We consider the problem of minimizing a smooth, Lipschitz, convex function over 
 
 
 ---
+
+
 
 ### Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games
 <a name="uncertainitypublications"></a>
@@ -236,20 +241,10 @@ style="float: right; margin-left: 10px; margin-right: 10px;">
 Offline reinforcement learning (offline RL) considers problems where learning is performed using only previously collected samples and is helpful for the settings in which collecting new data is costly or risky. In model-based offline RL, the learner performs estimation (or optimization) using a model constructed according to the empirical transition frequencies. We analyze the sample complexity of vanilla model-based offline RL with dependent samples in the infinite-horizon discounted-reward setting. In our setting, the samples obey the dynamics of the Markov decision process and, consequently, may have interdependencies. Under no assumption of independent samples, we provide a high-probability, polynomial sample complexity bound for vanilla model-based off-policy evaluation that requires partial or uniform coverage. We extend this result to the off-policy optimization under uniform coverage. As a comparison to the model-based approach, we analyze the sample complexity of off-policy evaluation with vanilla importance sampling in the infinite-horizon setting. Finally, we provide an estimator that outperforms the sample-mean estimator for almost deterministic dynamics that are prevalent in reinforcement learning.
 
 ---
-<a name="conveyinformationpublications"></a>
 
 
 
-### Encouraging Inferable Behavior for Autonomy: Repeated Bimatrix Stackelberg Games with Observations
 
-<a name="offlinedatapublications"></a>
-
-Mustafa O. Karabag, Sophia Smith, David Fridovich-Keil, and Ufuk Topcu<br><span style="font-size:12pt">Under review</span><br> 
-
-[Paper](https://arxiv.org/pdf/2310.00468.pdf)
-
-**Abstract:** 
-When interacting with other non-competitive decision-making agents, it is critical for an autonomous agent to have inferable behavior: Their actions must convey their intention and strategy. For example, an autonomous car's strategy must be inferable by the pedestrians interacting with the car. We model the inferability problem using a repeated bimatrix Stackelberg game with observations where a leader and a follower repeatedly interact. During the interactions, the leader uses a fixed, potentially mixed strategy. The follower, on the other hand, does not know the leader's strategy and dynamically reacts based on observations that are the leader's previous actions. In the setting with observations, the leader may suffer from an inferability loss, i.e., the performance compared to the setting where the follower has perfect information of the leader's strategy. We show that the inferability loss is upper-bounded by a function of the number of interactions and the stochasticity level of the leader's strategy, encouraging the use of inferable strategies with lower stochasticity levels. As a converse result, we also provide a game where the required number of interactions is lower bounded by a function of the desired inferability loss.
 
 
 
