@@ -71,7 +71,7 @@ Yagiz Savas, **Mustafa O. Karabag**, Brian Sadler, and Ufuk Topcu<br><span style
 [Paper](https://arxiv.org/pdf/2206.01306.pdf), [Code](https://github.com/mustafakarabag/resource-deception)
 
 <img 
-src="/images/resourcealloc.png" 
+src="/images/resourcealloc-.png" 
 width=400 
 style="float: right; margin-left: 10px; margin-right: 10px;">
 
@@ -192,7 +192,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/16499/16306)
 
 <img 
-src="/images/AAAI2021.png" 
+src="/images/AAAI2021-.png" 
 width=400 
 style="float: right; margin-left: 10px; margin-right: 10px;">
 
@@ -210,7 +210,7 @@ Jingqi Li, Chih-Yuan Chiu, Lasse Peters, Fernando Palafox, **Mustafa O. Karabag*
 [Paper](https://arxiv.org/pdf/2304.01945)
 
 <img 
-src="/images/CDC2023Scenario.png" 
+src="/images/CDC2023Scenario-.png" 
 width=400 
 style="float: right; margin-left: 10px; margin-right: 10px;">
 
