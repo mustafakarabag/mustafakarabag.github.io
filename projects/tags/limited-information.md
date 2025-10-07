@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Limited-Information
-permalink: /projects/tags/limited-information/
+permalink: /projects-publications/tags/limited-information/
 ---
 
 # limited information

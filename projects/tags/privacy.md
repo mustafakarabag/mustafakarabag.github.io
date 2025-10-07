@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /projects/tags/privacy/
+permalink: /projects-publications/tags/privacy/
 ---
 
 # privacy

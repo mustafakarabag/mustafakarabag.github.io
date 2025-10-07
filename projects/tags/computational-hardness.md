@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational-Hardness
-permalink: /projects/tags/computational-hardness/
+permalink: /projects-publications/tags/computational-hardness/
 ---
 
 # computational hardness

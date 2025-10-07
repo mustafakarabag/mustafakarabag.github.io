@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Perception
-permalink: /projects/tags/perception/
+permalink: /projects-publications/tags/perception/
 ---
 
 # perception

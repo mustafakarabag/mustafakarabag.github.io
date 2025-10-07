@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security
-permalink: /projects/tags/security/
+permalink: /projects-publications/tags/security/
 ---
 
 # security

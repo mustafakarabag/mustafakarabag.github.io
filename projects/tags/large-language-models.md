@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Large-Language-Models
-permalink: /projects/tags/large-language-models/
+permalink: /projects-publications/tags/large-language-models/
 ---
 
 # large language models

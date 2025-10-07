@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Formal-Methods
-permalink: /projects/tags/formal-methods/
+permalink: /projects-publications/tags/formal-methods/
 ---
 
 # formal methods

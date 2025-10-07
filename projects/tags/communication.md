@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Communication
-permalink: /projects/tags/communication/
+permalink: /projects-publications/tags/communication/
 ---
 
 # communication

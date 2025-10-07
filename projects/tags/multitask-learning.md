@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multitask-Learning
-permalink: /projects/tags/multitask-learning/
+permalink: /projects-publications/tags/multitask-learning/
 ---
 
 # multitask learning

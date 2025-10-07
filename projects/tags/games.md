@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Games
-permalink: /projects/tags/games/
+permalink: /projects-publications/tags/games/
 ---
 
 # games

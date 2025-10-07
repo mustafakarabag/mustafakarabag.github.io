@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optimization
-permalink: /projects/tags/optimization/
+permalink: /projects-publications/tags/optimization/
 ---
 
 # optimization

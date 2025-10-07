@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning
-permalink: /projects/tags/learning/
+permalink: /projects-publications/tags/learning/
 ---
 
 # learning

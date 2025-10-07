@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bargaining
-permalink: /projects/tags/bargaining/
+permalink: /projects-publications/tags/bargaining/
 ---
 
 # bargaining

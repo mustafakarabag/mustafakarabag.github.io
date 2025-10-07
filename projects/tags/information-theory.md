@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Information-Theory
-permalink: /projects/tags/information-theory/
+permalink: /projects-publications/tags/information-theory/
 ---
 
 # information theory

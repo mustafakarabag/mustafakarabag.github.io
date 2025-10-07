@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multiarmed-Bandits
-permalink: /projects/tags/multiarmed-bandits/
+permalink: /projects-publications/tags/multiarmed-bandits/
 ---
 
 # multiarmed bandits

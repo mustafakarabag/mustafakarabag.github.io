@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deception
-permalink: /projects/tags/deception/
+permalink: /projects-publications/tags/deception/
 ---
 
 # deception

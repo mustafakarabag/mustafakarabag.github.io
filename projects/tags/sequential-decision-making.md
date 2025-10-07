@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sequential-Decision-Making
-permalink: /projects/tags/sequential-decision-making/
+permalink: /projects-publications/tags/sequential-decision-making/
 ---
 
 # sequential decision-making

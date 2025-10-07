@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Estimation-Theory
-permalink: /projects/tags/estimation-theory/
+permalink: /projects-publications/tags/estimation-theory/
 ---
 
 # estimation theory

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multiagent-Systems
-permalink: /projects/tags/multiagent-systems/
+permalink: /projects-publications/tags/multiagent-systems/
 ---
 
 # multiagent systems
