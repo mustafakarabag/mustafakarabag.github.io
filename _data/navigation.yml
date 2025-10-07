@@ -1,0 +1,48 @@
+main:
+- title: Projects & Publications
+  url: /projects-publications/
+  children:
+  - title: Tags
+    children:
+    - title: Bargaining
+      url: /projects-publications/tags/bargaining/
+    - title: Communication
+      url: /projects-publications/tags/communication/
+    - title: Computational-Hardness
+      url: /projects-publications/tags/computational-hardness/
+    - title: Deception
+      url: /projects-publications/tags/deception/
+    - title: Estimation-Theory
+      url: /projects-publications/tags/estimation-theory/
+    - title: Formal-Methods
+      url: /projects-publications/tags/formal-methods/
+    - title: Games
+      url: /projects-publications/tags/games/
+    - title: Information-Concealment
+      url: /projects-publications/tags/information-concealment/
+    - title: Information-Theory
+      url: /projects-publications/tags/information-theory/
+    - title: Large-Language-Models
+      url: /projects-publications/tags/large-language-models/
+    - title: Learning
+      url: /projects-publications/tags/learning/
+    - title: Limited-Information
+      url: /projects-publications/tags/limited-information/
+    - title: Multiagent-Systems
+      url: /projects-publications/tags/multiagent-systems/
+    - title: Multiarmed-Bandits
+      url: /projects-publications/tags/multiarmed-bandits/
+    - title: Multitask-Learning
+      url: /projects-publications/tags/multitask-learning/
+    - title: Optimization
+      url: /projects-publications/tags/optimization/
+    - title: Perception
+      url: /projects-publications/tags/perception/
+    - title: Privacy
+      url: /projects-publications/tags/privacy/
+    - title: Security
+      url: /projects-publications/tags/security/
+    - title: Sequential-Decision-Making
+      url: /projects-publications/tags/sequential-decision-making/
+- title: CV
+  url: /files/karabag_cv.pdf
