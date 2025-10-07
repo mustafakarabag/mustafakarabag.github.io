@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Sequential-Decision-Making
+title: ""
 permalink: /projects-publications/tags/sequential-decision-making/
 ---
 

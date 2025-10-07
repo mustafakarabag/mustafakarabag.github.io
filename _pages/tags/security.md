@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Security
+title: ""
 permalink: /projects-publications/tags/security/
 ---
 

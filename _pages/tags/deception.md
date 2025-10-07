@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Deception
+title: ""
 permalink: /projects-publications/tags/deception/
 ---
 

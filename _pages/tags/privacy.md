@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Privacy
+title: ""
 permalink: /projects-publications/tags/privacy/
 ---
 

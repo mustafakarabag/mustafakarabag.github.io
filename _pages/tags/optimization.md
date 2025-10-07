@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Optimization
+title: ""
 permalink: /projects-publications/tags/optimization/
 ---
 

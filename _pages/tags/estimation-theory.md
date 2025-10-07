@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Estimation-Theory
+title: ""
 permalink: /projects-publications/tags/estimation-theory/
 ---
 

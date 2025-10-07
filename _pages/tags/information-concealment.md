@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Information-Concealment
+title: ""
 permalink: /projects-publications/tags/information-concealment/
 ---
 

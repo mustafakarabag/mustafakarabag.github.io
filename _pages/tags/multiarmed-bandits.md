@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Multiarmed-Bandits
+title: ""
 permalink: /projects-publications/tags/multiarmed-bandits/
 ---
 

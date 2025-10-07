@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Formal-Methods
+title: ""
 permalink: /projects-publications/tags/formal-methods/
 ---
 

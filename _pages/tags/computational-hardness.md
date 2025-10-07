@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Computational-Hardness
+title: ""
 permalink: /projects-publications/tags/computational-hardness/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Games
+title: ""
 permalink: /projects-publications/tags/games/
 ---
 

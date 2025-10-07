@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Learning
+title: ""
 permalink: /projects-publications/tags/learning/
 ---
 

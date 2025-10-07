@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Large-Language-Models
+title: ""
 permalink: /projects-publications/tags/large-language-models/
 ---
 

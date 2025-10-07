@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Bargaining
+title: ""
 permalink: /projects-publications/tags/bargaining/
 ---
 

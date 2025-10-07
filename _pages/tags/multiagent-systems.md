@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Multiagent-Systems
+title: ""
 permalink: /projects-publications/tags/multiagent-systems/
 ---
 

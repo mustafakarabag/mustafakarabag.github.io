@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Limited-Information
+title: ""
 permalink: /projects-publications/tags/limited-information/
 ---
 

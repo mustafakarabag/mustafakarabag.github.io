@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Communication
+title: ""
 permalink: /projects-publications/tags/communication/
 ---
 

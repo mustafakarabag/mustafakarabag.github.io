@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Perception
+title: ""
 permalink: /projects-publications/tags/perception/
 ---
 

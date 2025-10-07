@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Information-Theory
+title: ""
 permalink: /projects-publications/tags/information-theory/
 ---
 
