@@ -51,7 +51,7 @@ Large language model-based (LLM-based) agents have become common in settings tha
 
 ### Deceptive Sequential Decision-Making via Regularized Policy Optimization
 
-Yerin Kim, Alexander Benvenuti, Bo Chen, ****Mustafa O. Karabag****, Abhishek Kulkarni, Nathaniel D. Bastian, Ufuk Topcu, Matthew Hale  
+Yerin Kim, Alexander Benvenuti, Bo Chen, **Mustafa O. Karabag**, Abhishek Kulkarni, Nathaniel D. Bastian, Ufuk Topcu, Matthew Hale  
 *Preprint, 2025*  
 
 [Paper](https://arxiv.org/abs/2501.18803)
@@ -391,7 +391,7 @@ When interacting with other non-competitive decision-making agents, it is critic
 
 ### Defining and Measuring Deception in Sequential Decision Systems: Application to Network Defense
 
-Yerin Kim, Alexander Benvenuti, Bo Chen, ****Mustafa O. Karabag****, Abhishek Kulkarni, Nathaniel B. Bastian, Ufuk Topcu, Matthew Hale  
+Yerin Kim, Alexander Benvenuti, Bo Chen, **Mustafa O. Karabag**, Abhishek Kulkarni, Nathaniel B. Bastian, Ufuk Topcu, Matthew Hale  
 *IEEE Military Communications Conference (MILCOM), 2024*  
 
 [Paper](https://ieeexplore.ieee.org/document/10773660)
