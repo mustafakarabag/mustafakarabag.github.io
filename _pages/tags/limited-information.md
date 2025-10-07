@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Limited-Information
+permalink: /projects-publications/tags/limited-information/
+---
+
 # limited information
 [⬅ Back to all papers](../papers.md)
 

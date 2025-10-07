@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Information-Concealment
+permalink: /projects-publications/tags/information-concealment/
+---
+
 # information concealment
 [⬅ Back to all papers](../papers.md)
 

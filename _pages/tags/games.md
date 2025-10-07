@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Games
+permalink: /projects-publications/tags/games/
+---
+
 # games
 [⬅ Back to all papers](../papers.md)
 

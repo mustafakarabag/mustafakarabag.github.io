@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Privacy
+permalink: /projects-publications/tags/privacy/
+---
+
 # privacy
 [⬅ Back to all papers](../papers.md)
 

@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Learning
+permalink: /projects-publications/tags/learning/
+---
+
 # learning
 [⬅ Back to all papers](../papers.md)
 

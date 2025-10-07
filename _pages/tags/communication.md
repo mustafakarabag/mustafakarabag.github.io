@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Communication
+permalink: /projects-publications/tags/communication/
+---
+
 # communication
 [⬅ Back to all papers](../papers.md)
 

@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Computational-Hardness
+permalink: /projects-publications/tags/computational-hardness/
+---
+
 # computational hardness
 [⬅ Back to all papers](../papers.md)
 

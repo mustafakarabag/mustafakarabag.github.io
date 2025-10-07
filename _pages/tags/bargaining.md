@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Bargaining
+permalink: /projects-publications/tags/bargaining/
+---
+
 # bargaining
 [⬅ Back to all papers](../papers.md)
 

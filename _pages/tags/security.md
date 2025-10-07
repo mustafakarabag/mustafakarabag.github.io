@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Security
+permalink: /projects-publications/tags/security/
+---
+
 # security
 [⬅ Back to all papers](../papers.md)
 

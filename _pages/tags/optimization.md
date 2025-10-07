@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Optimization
+permalink: /projects-publications/tags/optimization/
+---
+
 # optimization
 [⬅ Back to all papers](../papers.md)
 

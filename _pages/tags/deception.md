@@ -1,3 +1,9 @@
+---
+layout: archive
+title: Deception
+permalink: /projects-publications/tags/deception/
+---
+
 # deception
 [⬅ Back to all papers](../papers.md)
 
