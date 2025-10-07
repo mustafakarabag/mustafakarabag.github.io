@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/multitask-learning/
 ---
 
 # multitask learning
-[⬅ Back to all papers](../papers.md)
+[⬅ Back to all papers](../papers/)
 
 - **[DiBS-MTL: Transformation-Invariant Multitask Learning with Direction Oracles](../papers.md)**  
   *Preprint, 2025*

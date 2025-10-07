@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/communication/
 ---
 
 # communication
-[⬅ Back to all papers](../papers.md)
+[⬅ Back to all papers](../papers/)
 
 - **[Approximate Feedback Nash Equilibria with Sparse Inter-Agent Dependencies](../papers.md)**  
   *Preprint, 2025*

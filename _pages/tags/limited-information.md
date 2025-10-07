@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/limited-information/
 ---
 
 # limited information
-[⬅ Back to all papers](../papers.md)
+[⬅ Back to all papers](../papers/)
 
 - **[Sequential Resource Trading Using Comparison-Based Gradient Estimation](../papers.md)**  
   *Preprint, 2025*

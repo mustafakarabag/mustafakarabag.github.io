@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/information-theory/
 ---
 
 # information theory
-[⬅ Back to all papers](../papers.md)
+[⬅ Back to all papers](../papers/)
 
 - **[Designing Policies for Transition-Independent Multiagent Systems that are Robust to Communication Loss](../papers.md)**  
   *Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2025*

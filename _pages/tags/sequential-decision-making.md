@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/sequential-decision-making/
 ---
 
 # sequential decision-making
-[⬅ Back to all papers](../papers.md)
+[⬅ Back to all papers](../papers/)
 
 - **[Deceptive Sequential Decision-Making via Regularized Policy Optimization](../papers.md)**  
   *Preprint, 2025*

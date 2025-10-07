@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/learning/
 ---
 
 # learning
-[⬅ Back to all papers](../papers.md)
+[⬅ Back to all papers](../papers/)
 
 - **[Designing Inferable Signaling Schemes for Bayesian Persuasion](../papers.md)**  
   *Preprint, 2025*
