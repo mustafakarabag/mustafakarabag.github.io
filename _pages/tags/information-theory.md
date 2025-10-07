@@ -1,9 +1,3 @@
----
-layout: page
-title: Information-Theory
-permalink: /projects-publications/tags/information-theory/
----
-
 # information theory
 [⬅ Back to all papers](../papers.md)
 

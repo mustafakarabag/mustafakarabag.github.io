@@ -1,9 +1,3 @@
----
-layout: page
-title: Sequential-Decision-Making
-permalink: /projects-publications/tags/sequential-decision-making/
----
-
 # sequential decision-making
 [⬅ Back to all papers](../papers.md)
 

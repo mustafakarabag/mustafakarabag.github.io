@@ -1,9 +1,3 @@
----
-layout: page
-title: Perception
-permalink: /projects-publications/tags/perception/
----
-
 # perception
 [⬅ Back to all papers](../papers.md)
 

@@ -1,9 +1,3 @@
----
-layout: page
-title: Multiagent-Systems
-permalink: /projects-publications/tags/multiagent-systems/
----
-
 # multiagent systems
 [⬅ Back to all papers](../papers.md)
 

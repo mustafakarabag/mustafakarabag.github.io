@@ -1,9 +1,3 @@
----
-layout: page
-title: Formal-Methods
-permalink: /projects-publications/tags/formal-methods/
----
-
 # formal methods
 [⬅ Back to all papers](../papers.md)
 
