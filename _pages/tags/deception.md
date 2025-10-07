@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/deception/
 ---
 
 # deception
-[⬅ Back to all papers](../papers/)
+[⬅ Back to all papers](../../)
 
 - **[Deceptive Sequential Decision-Making via Regularized Policy Optimization](../papers.md)**  
   *Preprint, 2025*

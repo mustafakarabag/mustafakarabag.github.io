@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/formal-methods/
 ---
 
 # formal methods
-[⬅ Back to all papers](../papers/)
+[⬅ Back to all papers](../../)
 
 - **[Formal Methods for Autonomous Systems](../papers.md)**  
   *, 2023*

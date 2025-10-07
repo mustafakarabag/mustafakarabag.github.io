@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/security/
 ---
 
 # security
-[⬅ Back to all papers](../papers/)
+[⬅ Back to all papers](../../)
 
 - **[Deceptive Planning Exploiting Inattention Blindness](../papers.md)**  
   *Preprint, 2025*

@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/information-concealment/
 ---
 
 # information concealment
-[⬅ Back to all papers](../papers/)
+[⬅ Back to all papers](../../)
 
 - **[Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game](../papers.md)**  
   *Preprint, 2025*

@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/bargaining/
 ---
 
 # bargaining
-[⬅ Back to all papers](../papers/)
+[⬅ Back to all papers](../../)
 
 - **[DiBS-MTL: Transformation-Invariant Multitask Learning with Direction Oracles](../papers.md)**  
   *Preprint, 2025*

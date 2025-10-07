@@ -5,7 +5,7 @@ permalink: /projects-publications/tags/optimization/
 ---
 
 # optimization
-[⬅ Back to all papers](../papers/)
+[⬅ Back to all papers](../../)
 
 - **[Sequential Resource Trading Using Comparison-Based Gradient Estimation](../papers.md)**  
   *Preprint, 2025*
