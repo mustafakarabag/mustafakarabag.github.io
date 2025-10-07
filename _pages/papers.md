@@ -4,9 +4,6 @@ title: ""
 permalink: /projects-publications/
 ---
 
-
-
-
 **Tags:** #[bargaining](tags/bargaining.md)  #[communication](tags/communication.md)  #[computational hardness](tags/computational-hardness.md)  #[deception](tags/deception.md)  #[estimation theory](tags/estimation-theory.md)  #[formal methods](tags/formal-methods.md)  #[games](tags/games.md)  #[information concealment](tags/information-concealment.md)  #[information theory](tags/information-theory.md)  #[large language models](tags/large-language-models.md)  #[learning](tags/learning.md)  #[limited information](tags/limited-information.md)  #[multiagent systems](tags/multiagent-systems.md)  #[multiarmed bandits](tags/multiarmed-bandits.md)  #[multitask learning](tags/multitask-learning.md)  #[optimization](tags/optimization.md)  #[perception](tags/perception.md)  #[privacy](tags/privacy.md)  #[security](tags/security.md)  #[sequential decision-making](tags/sequential-decision-making.md)
 
 ---
@@ -28,7 +25,7 @@ Autonomous agents interact with other autonomous agents and humans of unknown pr
 <br>
 
 
-#[limited information](tags/limited-information.md) #[multiagent systems](tags/multiagent-systems.md) #[optimization](tags/optimization.md)
+#[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/) #[optimization](tags/optimization/)
 
 ---
 
@@ -47,7 +44,7 @@ Large language model-based (LLM-based) agents have become common in settings tha
 <br>
 
 
-#[information concealment](tags/information-concealment.md) #[large language models](tags/large-language-models.md) #[multiagent systems](tags/multiagent-systems.md)
+#[information concealment](tags/information-concealment/) #[large language models](tags/large-language-models/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -66,7 +63,7 @@ Autonomous systems are increasingly expected to operate in the presence of adver
 <br>
 
 
-#[deception](tags/deception.md) #[information concealment](tags/information-concealment.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[information concealment](tags/information-concealment/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -85,7 +82,7 @@ Feedback Nash equilibrium strategies in multi-agent dynamic games require availa
 <br>
 
 
-#[communication](tags/communication.md) #[games](tags/games.md) #[limited information](tags/limited-information.md) #[multiagent systems](tags/multiagent-systems.md)
+#[communication](tags/communication/) #[games](tags/games/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -104,7 +101,7 @@ Multitask learning (MTL) algorithms typically rely on schemes that combine diffe
 <br>
 
 
-#[bargaining](tags/bargaining.md) #[limited information](tags/limited-information.md) #[multitask learning](tags/multitask-learning.md) #[optimization](tags/optimization.md)
+#[bargaining](tags/bargaining/) #[limited information](tags/limited-information/) #[multitask learning](tags/multitask-learning/) #[optimization](tags/optimization/)
 
 ---
 
@@ -123,7 +120,7 @@ In Bayesian persuasion, an informed sender, who observes a state, commits to a r
 <br>
 
 
-#[games](tags/games.md) #[learning](tags/learning.md) #[multiagent systems](tags/multiagent-systems.md)
+#[games](tags/games/) #[learning](tags/learning/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -142,7 +139,7 @@ We study decision-making with rational inattention in settings where agents have
 <br>
 
 
-#[deception](tags/deception.md) #[games](tags/games.md) #[perception](tags/perception.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[games](tags/games/) #[perception](tags/perception/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -159,7 +156,7 @@ We consider a multi-armed bandit setting in which each arm has a public and a pr
 <br>
 
 
-#[deception](tags/deception.md) #[multiarmed bandits](tags/multiarmed-bandits.md) #[security](tags/security.md)
+#[deception](tags/deception/) #[multiarmed bandits](tags/multiarmed-bandits/) #[security](tags/security/)
 
 ---
 
@@ -178,7 +175,7 @@ When interacting with other decision-making agents in non-adversarial scenarios,
 <br>
 
 
-#[games](tags/games.md) #[learning](tags/learning.md) #[multiagent systems](tags/multiagent-systems.md)
+#[games](tags/games/) #[learning](tags/learning/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -199,7 +196,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 <br>
 
 
-#[communication](tags/communication.md) #[games](tags/games.md) #[information theory](tags/information-theory.md) #[limited information](tags/limited-information.md) #[multiagent systems](tags/multiagent-systems.md)
+#[communication](tags/communication/) #[games](tags/games/) #[information theory](tags/information-theory/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -218,7 +215,7 @@ In an adversarial environment, a hostile player performing a task may behave lik
 <br>
 
 
-#[deception](tags/deception.md) #[games](tags/games.md) #[information theory](tags/information-theory.md) #[learning](tags/learning.md) #[security](tags/security.md)
+#[deception](tags/deception/) #[games](tags/games/) #[information theory](tags/information-theory/) #[learning](tags/learning/) #[security](tags/security/)
 
 ---
 
@@ -237,7 +234,7 @@ Deception is a useful tool in situations where an agent operates in the presence
 <br>
 
 
-#[computational hardness](tags/computational-hardness.md) #[deception](tags/deception.md) #[information theory](tags/information-theory.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[computational hardness](tags/computational-hardness/) #[deception](tags/deception/) #[information theory](tags/information-theory/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -256,7 +253,7 @@ The use of deceptive strategies is important for an agent that attempts not to r
 <br>
 
 
-#[computational hardness](tags/computational-hardness.md) #[deception](tags/deception.md) #[information theory](tags/information-theory.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[computational hardness](tags/computational-hardness/) #[deception](tags/deception/) #[information theory](tags/information-theory/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -275,7 +272,7 @@ We study the problem of synthesizing a policy that maximizes the entropy of a Ma
 <br>
 
 
-#[information concealment](tags/information-concealment.md) #[information theory](tags/information-theory.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[information concealment](tags/information-concealment/) #[information theory](tags/information-theory/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -296,7 +293,7 @@ Common feedback strategies in multi-agent dynamic games require all players' sta
 <br>
 
 
-#[communication](tags/communication.md) #[games](tags/games.md) #[limited information](tags/limited-information.md) #[multiagent systems](tags/multiagent-systems.md)
+#[communication](tags/communication/) #[games](tags/games/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -316,7 +313,7 @@ Using the VoI objectives we propose, path planning agents deceive the adversaria
 <br>
 
 
-#[deception](tags/deception.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -352,7 +349,7 @@ theoretical results.
 <br>
 
 
-#[bargaining](tags/bargaining.md) #[limited information](tags/limited-information.md) #[optimization](tags/optimization.md)
+#[bargaining](tags/bargaining/) #[limited information](tags/limited-information/) #[optimization](tags/optimization/)
 
 ---
 
@@ -371,7 +368,7 @@ When interacting with other non-competitive decision-making agents, it is critic
 <br>
 
 
-#[games](tags/games.md) #[learning](tags/learning.md) #[multiagent systems](tags/multiagent-systems.md)
+#[games](tags/games/) #[learning](tags/learning/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -390,7 +387,7 @@ Concealing true targets plays a crucial role in preventing adversaries from laun
 <br>
 
 
-#[deception](tags/deception.md) #[information concealment](tags/information-concealment.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[information concealment](tags/information-concealment/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -409,7 +406,7 @@ We consider a team of autonomous agents that navigate in an adversarial environm
 <br>
 
 
-#[deception](tags/deception.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -428,7 +425,7 @@ Deception is helpful for agents masking their intentions from an observer. We co
 <br>
 
 
-#[deception](tags/deception.md) #[multiagent systems](tags/multiagent-systems.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[multiagent systems](tags/multiagent-systems/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -447,7 +444,7 @@ We consider a setting where a supervisor delegates an agent to perform a certain
 <br>
 
 
-#[deception](tags/deception.md) #[information theory](tags/information-theory.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[information theory](tags/information-theory/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -466,7 +463,7 @@ Decision-making in multi-player games can be extremely challenging, particularly
 <br>
 
 
-#[multiagent systems](tags/multiagent-systems.md) #[optimization](tags/optimization.md)
+#[multiagent systems](tags/multiagent-systems/) #[optimization](tags/optimization/)
 
 ---
 
@@ -485,7 +482,7 @@ Offline reinforcement learning (offline RL) considers problems where learning is
 <br>
 
 
-#[learning](tags/learning.md) #[limited information](tags/limited-information.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[learning](tags/learning/) #[limited information](tags/limited-information/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -504,7 +501,7 @@ Privacy-aware multiagent systems must protect agents' sensitive data while simul
 <br>
 
 
-#[multiagent systems](tags/multiagent-systems.md) #[privacy](tags/privacy.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[multiagent systems](tags/multiagent-systems/) #[privacy](tags/privacy/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -523,7 +520,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 <br>
 
 
-#[communication](tags/communication.md) #[limited information](tags/limited-information.md) #[multiagent systems](tags/multiagent-systems.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[communication](tags/communication/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -542,7 +539,7 @@ Saddle-point problems appear in various settings including machine learning, zer
 <br>
 
 
-#[optimization](tags/optimization.md)
+#[optimization](tags/optimization/)
 
 ---
 
@@ -561,7 +558,7 @@ We consider the problem of minimizing a smooth, Lipschitz, convex function over 
 <br>
 
 
-#[learning](tags/learning.md) #[limited information](tags/limited-information.md) #[optimization](tags/optimization.md)
+#[learning](tags/learning/) #[limited information](tags/limited-information/) #[optimization](tags/optimization/)
 
 ---
 
@@ -580,7 +577,7 @@ The use of deceptive strategies is important for an agent that attempts not to r
 <br>
 
 
-#[deception](tags/deception.md) #[information theory](tags/information-theory.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[deception](tags/deception/) #[information theory](tags/information-theory/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -599,7 +596,7 @@ In a variety of applications, an agent's success depends on the knowledge that a
 <br>
 
 
-#[estimation theory](tags/estimation-theory.md) #[information concealment](tags/information-concealment.md) #[security](tags/security.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[estimation theory](tags/estimation-theory/) #[information concealment](tags/information-concealment/) #[security](tags/security/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
 
@@ -621,6 +618,6 @@ This monograph provides a survey of the current state of the art on applications
 <br>
 
 
-#[formal methods](tags/formal-methods.md) #[sequential decision-making](tags/sequential-decision-making.md)
+#[formal methods](tags/formal-methods/) #[sequential decision-making](tags/sequential-decision-making/)
 
 ---
