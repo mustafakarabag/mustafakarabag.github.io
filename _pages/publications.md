@@ -1,8 +1,4 @@
----
-layout: archive
-title: ""
-permalink: /projects-publications/
----
+
 
 # Planning in Adversarial Domains ([Relevant publications](#adversarialpublications))
  
