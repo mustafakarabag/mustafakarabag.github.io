@@ -8,4 +8,4 @@ permalink: /projects-publications/tags/formal-methods/
 [⬅ Back to all papers](../../)
 
 - **[Formal Methods for Autonomous Systems](../papers.md)**  
-  *, 2023*
+  *Foundations and Trends in Systems and Control, 2023*

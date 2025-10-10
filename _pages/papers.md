@@ -1,8 +1,3 @@
----
-layout: archive
-title: ""
-permalink: /projects-publications/
----
 **Tags:** #[bargaining](tags/bargaining.md)  #[communication](tags/communication.md)  #[computational hardness](tags/computational-hardness.md)  #[deception](tags/deception.md)  #[estimation theory](tags/estimation-theory.md)  #[formal methods](tags/formal-methods.md)  #[games](tags/games.md)  #[information concealment](tags/information-concealment.md)  #[information theory](tags/information-theory.md)  #[large language models](tags/large-language-models.md)  #[learning](tags/learning.md)  #[limited information](tags/limited-information.md)  #[multiagent systems](tags/multiagent-systems.md)  #[multiarmed bandits](tags/multiarmed-bandits.md)  #[multitask learning](tags/multitask-learning.md)  #[optimization](tags/optimization.md)  #[perception](tags/perception.md)  #[privacy](tags/privacy.md)  #[security](tags/security.md)  #[sequential decision-making](tags/sequential-decision-making.md)
 
 ---
@@ -163,7 +158,7 @@ We consider a multi-armed bandit setting in which each arm has a public and a pr
 
 
 
-#[deception](tags/deception/) #[multiarmed bandits](tags/multiarmed-bandits/) #[security](tags/security/)
+#[deception](tags/deception/) #[learning](tags/learning/) #[multiarmed bandits](tags/multiarmed-bandits/) #[security](tags/security/)
 
 ---
 
@@ -634,7 +629,7 @@ In a variety of applications, an agent's success depends on the knowledge that a
 ### Formal Methods for Autonomous Systems
 
 Tichakorn Wongpiromsarn, Mahsa Ghasemi, Murat Cubuktepe, Georgios Bakirtzis, Steven Carr, **Mustafa O. Karabag**, Cyrus Neary, Parham Gohari, Ufuk Topcu  
-*, 2023*  
+*Foundations and Trends in Systems and Control, 2023*  
 
 [Paper](10.1561/2600000029)
 

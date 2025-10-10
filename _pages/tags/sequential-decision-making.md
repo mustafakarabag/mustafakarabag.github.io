@@ -38,7 +38,7 @@ permalink: /projects-publications/tags/sequential-decision-making/
   *Uncertainty in Artificial Intelligence (UAI), 2023*
 
 - **[Formal Methods for Autonomous Systems](../papers.md)**  
-  *, 2023*
+  *Foundations and Trends in Systems and Control, 2023*
 
 - **[Deception in Supervisory Control](../papers.md)**  
   *IEEE Transactions on Automatic Control (TAC), 2022*

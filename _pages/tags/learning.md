@@ -10,6 +10,9 @@ permalink: /projects-publications/tags/learning/
 - **[Designing Inferable Signaling Schemes for Bayesian Persuasion](../papers.md)**  
   *Preprint, 2025*
 
+- **[Deceptive Exploration in Multi-armed Bandits](../papers.md)**  
+  *Preprint, 2025*
+
 - **[When Should a Leader Act Suboptimally? The Role of Inferability in Repeated Stackelberg Games](../papers.md)**  
   *Preprint, 2024*
 
