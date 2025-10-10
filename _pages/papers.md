@@ -1,4 +1,4 @@
-**Tags:** #[bargaining](tags/bargaining.md)  #[communication](tags/communication.md)  #[computational hardness](tags/computational-hardness.md)  #[deception](tags/deception.md)  #[estimation theory](tags/estimation-theory.md)  #[formal methods](tags/formal-methods.md)  #[games](tags/games.md)  #[information concealment](tags/information-concealment.md)  #[information theory](tags/information-theory.md)  #[large language models](tags/large-language-models.md)  #[learning](tags/learning.md)  #[limited information](tags/limited-information.md)  #[multiagent systems](tags/multiagent-systems.md)  #[multiarmed bandits](tags/multiarmed-bandits.md)  #[multitask learning](tags/multitask-learning.md)  #[optimization](tags/optimization.md)  #[perception](tags/perception.md)  #[privacy](tags/privacy.md)  #[security](tags/security.md)  #[sequential decision-making](tags/sequential-decision-making.md)
+**Tags:** #[bargaining](tags/bargaining.md)  #[communication](tags/communication.md)  #[computational hardness](tags/computational-hardness.md)  #[deception](tags/deception.md)  #[estimation theory](tags/estimation-theory.md)  #[formal methods](tags/formal-methods.md)  #[games](tags/games.md)  #[information concealment](tags/information-concealment.md)  #[information theory](tags/information-theory.md)  #[large language models](tags/large-language-models.md)  #[learning](tags/learning.md)  #[limited information](tags/limited-information.md)  #[multiagent systems](tags/multiagent-systems.md)  #[multiarmed bandits](tags/multiarmed-bandits.md)  #[optimization](tags/optimization.md)  #[perception](tags/perception.md)  #[privacy](tags/privacy.md)  #[security](tags/security.md)  #[sequential decision-making](tags/sequential-decision-making.md)
 
 ---
 
@@ -100,7 +100,7 @@ Multitask learning (MTL) algorithms typically rely on schemes that combine diffe
 
 
 
-#[bargaining](tags/bargaining/) #[limited information](tags/limited-information/) #[multitask learning](tags/multitask-learning/) #[optimization](tags/optimization/)
+#[bargaining](tags/bargaining/) #[learning](tags/learning/) #[limited information](tags/limited-information/) #[optimization](tags/optimization/)
 
 ---
 
