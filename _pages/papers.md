@@ -20,7 +20,7 @@ Autonomous agents interact with other autonomous agents and humans of unknown pr
 
 
 
-#[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/) #[optimization](tags/optimization/)
+#[large language models](tags/large-language-models/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/) #[optimization](tags/optimization/)
 
 ---
 
