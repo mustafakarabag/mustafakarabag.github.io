@@ -40,7 +40,7 @@ Large language model-based (LLM-based) agents have become common in settings tha
 
 
 
-#[information concealment](tags/information-concealment/) #[large language models](tags/large-language-models/) #[multiagent systems](tags/multiagent-systems/)
+#[games](tags/games/) #[information concealment](tags/information-concealment/) #[large language models](tags/large-language-models/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
@@ -200,7 +200,7 @@ In a cooperative multiagent system, a collection of agents executes a joint poli
 
 
 
-#[communication](tags/communication/) #[games](tags/games/) #[information theory](tags/information-theory/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/)
+#[communication](tags/communication/) #[information theory](tags/information-theory/) #[limited information](tags/limited-information/) #[multiagent systems](tags/multiagent-systems/)
 
 ---
 
