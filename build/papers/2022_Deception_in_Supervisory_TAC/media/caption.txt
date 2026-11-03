@@ -1,0 +1,1 @@
+Optimal reference policy safeguards against deception by increasing the distance to adversarial targets.

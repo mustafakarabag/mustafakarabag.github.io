@@ -1,0 +1,1 @@
+Greedy trade offers work under aligned interests whereas conflicting interests require trade offers that simultaneously prune opponent preferences.

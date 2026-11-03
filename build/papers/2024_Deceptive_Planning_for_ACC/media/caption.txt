@@ -1,0 +1,1 @@
+Deceptive techniques such as exaggeration and creating ambiguity leads to lower scores even when the users are deception-aware.

@@ -1,0 +1,1 @@
+Block separable convex-concave optimization problems can be efficiently solved using the Alternating Direction Method of Multipliers (ADMM).

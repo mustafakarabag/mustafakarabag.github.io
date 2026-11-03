@@ -1,0 +1,1 @@
+Exploration subject to a constant detection rate per time step is strictly slower than unconstrained exploration and strictly faster than offline exploration.

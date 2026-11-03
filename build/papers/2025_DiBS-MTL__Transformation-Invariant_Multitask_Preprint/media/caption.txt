@@ -1,0 +1,1 @@
+DiBS-MTL is robust to nonlinear reward scalings of tasks.

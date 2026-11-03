@@ -1,0 +1,1 @@
+Comparisons are sufficient to efficiently prune the gradient direction for smooth convex functions.

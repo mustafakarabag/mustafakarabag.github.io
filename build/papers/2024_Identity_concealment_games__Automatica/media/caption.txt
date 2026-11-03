@@ -1,0 +1,1 @@
+Defenders can distinguish attackers and legitimate users through statistically distinguishing actions.

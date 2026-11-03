@@ -1,0 +1,1 @@
+Pedestrian-autonomy interaction modeled with a repeated Strackelberg game.

@@ -1,0 +1,1 @@
+Strategies with low number of signals are more optimal for low number of interactions.

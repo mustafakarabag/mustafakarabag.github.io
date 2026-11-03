@@ -1,0 +1,1 @@
+Optimal deceptive policies mimic the rare events of the reference policies.

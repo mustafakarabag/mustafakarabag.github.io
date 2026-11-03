@@ -1,0 +1,84 @@
+:root {
+  --bg: #ffffff;
+  --text: #222;
+  --muted: #666;
+  --line: #e3e3e3;
+  --link: #0b3d91;
+  --link-hover: #072a66;
+  --chip-bg: #eef2f8;
+  --side-bg: #f7f8fa;
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--text); background: var(--bg); }
+a { color: var(--link); text-decoration: none; }
+a:hover { color: var(--link-hover); text-decoration: underline; }
+
+.topbar { border-bottom: 1px solid var(--line); }
+.topbar nav { max-width: 1320px; margin: 0 auto; padding: 14px 20px; display: flex; gap: 24px; align-items: baseline; }
+.topbar .name { font-weight: 700; margin-right: auto; color: var(--text); }
+.topbar a.active { text-decoration: underline; }
+
+.layout { max-width: 1320px; margin: 0 auto; padding: 28px 20px 60px; display: grid; grid-template-columns: 300px 1fr; gap: 40px; }
+.sidebar { background: var(--side-bg); border-radius: 8px; padding: 22px; align-self: start; font-size: 14.5px; }
+.sidebar .photo { width: 100%; aspect-ratio: 1; border-radius: 50%; background: #d5dbe6; display: grid; place-items: center; color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+.sidebar h1 { font-size: 20px; margin: 0 0 4px; }
+.sidebar .role { color: var(--muted); margin: 0 0 12px; }
+.sidebar ul { list-style: none; padding: 0; margin: 0; }
+.sidebar li { margin: 4px 0; }
+
+main h2 { font-size: 22px; margin: 34px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+main h2:first-child { margin-top: 0; }
+.empty { color: var(--muted); font-style: italic; }
+.links-list li { margin: 4px 0; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 8px; }
+.chip { font: inherit; font-size: 13px; background: var(--chip-bg); color: var(--link); border: 1px solid transparent; border-radius: 999px; padding: 3px 12px; cursor: pointer; }
+.chip:hover { border-color: var(--link); }
+.chip.on { background: var(--link); color: #fff; }
+
+.year { font-size: 20px; margin: 32px 0 8px; color: var(--muted); }
+.paper { display: grid; grid-template-columns: 250px 1fr; gap: 22px; padding: 14px 0; border-top: 1px solid var(--line); }
+.paper .media { width: 170px; align-self: start; border-radius: 6px; overflow: hidden; font-size: 12px; color: var(--muted); }
+.paper .media.ph { aspect-ratio: 4/3; background: #e9edf4; display: grid; place-items: center; }
+.paper .media img, .paper .media video { display: block; width: 100%; height: auto; }
+.paper .title { font-weight: 600; }
+.paper .authors, .paper .venue { font-size: 14.5px; color: var(--muted); }
+.paper .authors b { color: var(--text); }
+.paper .meta { margin-top: 6px; font-size: 13.5px; display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.paper .tag { color: var(--link); font-size: 12.5px; }
+
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; }
+.card { border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.card .media { aspect-ratio: 16/9; background: #e9edf4; display: grid; place-items: center; color: var(--muted); font-size: 12px; }
+.card .body { padding: 14px; }
+.card h3 { margin: 0 0 6px; font-size: 17px; }
+.card p { margin: 0 0 8px; font-size: 14.5px; }
+
+@media (max-width: 800px) {
+  .layout { grid-template-columns: 1fr; }
+  .paper { grid-template-columns: 1fr; }
+  .paper .media { width: 100%; }
+}
+
+.paper details { margin-top: 6px; font-size: 14px; }
+.paper summary { cursor: pointer; color: var(--link); }
+.paper details p { margin: 6px 0 0; color: var(--text); }
+.sidebar .photo img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+.sidebar .photo { overflow: hidden; background: none; }
+
+.paper .link { display: inline-flex; align-items: center; gap: 5px; }
+.paper .tags { margin-top: 4px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+
+.paper .figure { width: 250px; align-self: start; }
+.paper .media { width: 100%; }
+.paper .caption { margin-top: 5px; font-size: 12px; line-height: 1.35; color: var(--muted); }
+@media (max-width: 800px) { .paper .figure { width: 50%; } }
+
+.contact-links a { display: inline-flex; align-items: center; gap: 8px; }
+.contact-links svg { flex: none; }
+@media (max-width: 800px) { .sidebar .photo { width: 50%; } }
+@media (max-width: 800px) {
+  .sidebar .photo { margin: 0 auto 14px; }
+  .paper .figure { margin: 0 auto; }
+  .paper .caption { text-align: center; }
+}

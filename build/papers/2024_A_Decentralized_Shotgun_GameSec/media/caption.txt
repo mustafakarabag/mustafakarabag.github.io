@@ -1,0 +1,1 @@
+Deceptive agents collude offline to achieve their joint goal without coordination during runtime relying on a shotgun approach.
